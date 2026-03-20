@@ -20,7 +20,7 @@ A simple Task Manager application built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-![App Screenshot](https://picsum.photos/800/400)
+![App Screenshot](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c7ba3b15-df67-4a48-97b0-c1651f5f7aac" />)
 
 
 
