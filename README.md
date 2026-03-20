@@ -25,3 +25,31 @@ A simple Task Manager application built using HTML, CSS, and JavaScript.
 
 
 ## 📂 Project Structure
+TaskManager/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+
+## ⚙️ How to Run
+
+1. Download or clone the repository:
+```bash
+git clone https://github.com/VineshAXL/TaskManager.git
+
+2. Open index.html in your browser
+
+🌟 Future Improvements
+
+💾 Add localStorage support
+
+🔍 Search tasks
+
+🎯 Filter tasks (Completed / Pending)
+
+⚛️ Convert to React
+
+🙌 Author
+
+Vinesh Kumar
