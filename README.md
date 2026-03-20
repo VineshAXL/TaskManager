@@ -51,5 +51,16 @@ git clone https://github.com/VineshAXL/TaskManager.git
 ⚛️ Convert to React
 
 🙌 Author
-
 Vinesh Kumar
+
+⭐ If you like this project, give it a star!
+
+
+---
+
+## 🔥 Step 2: Push README
+
+```bash
+git add README.md
+git commit -m "Added README"
+git push
